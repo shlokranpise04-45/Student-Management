@@ -1,14 +1,15 @@
 body{
     font-family: Arial, sans-serif;
     margin: 40px;
+    background-color: bisque;
 }
 
 h1{
-    color: navy;
+    color: rgb(44, 169, 207);
 }
 
 button{
-    background-color: green;
+    background-color: rgb(37, 89, 148);
     color: white;
     padding: 8px;
     border: none;
